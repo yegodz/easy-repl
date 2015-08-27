@@ -1,5 +1,7 @@
 ##EasyRepl
   -easily add a repl to your .js file _with_ all the variables in the file in its scope
+  
+  -similar to the `-i` flag in pyton, eg. `python -i myscript.py`
 
 ##How to use
 

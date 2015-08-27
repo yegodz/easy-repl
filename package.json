@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/yegodz/easy-repl/issues"
   },
-  "homepage": "https://github.com/yegodz/easy-repl#readme"
+  "homepage": "https://github.com/yegodz/easy-repl#readme",
+  "dependencies": {
+    "lexical-scope": "^1.1.1",
+    "repl.history": "^0.1.3"
+  }
 }

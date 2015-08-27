@@ -1,0 +1,24 @@
+{
+  "name": "easy-repl",
+  "version": "1.0.1",
+  "description": "execute .js script and land in REPL - similar to python -i script.py",
+  "main": "easyrepl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yegodz/easy-repl.git"
+  },
+  "keywords": [
+    "node",
+    "REPL",
+    "interactive"
+  ],
+  "author": "Ruchir Godura <ruchir@cerient.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yegodz/easy-repl/issues"
+  },
+  "homepage": "https://github.com/yegodz/easy-repl#readme"
+}

@@ -7,6 +7,6 @@ Add the following at the end of your .js file
 
 ```javascript
  if (require.main === module) {
-     eval(require('./easyrepl'));
+     eval(require('easy-repl'));
  }
 ```
